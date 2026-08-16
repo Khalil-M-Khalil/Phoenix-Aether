@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "product": "Phoenix Aether",
+  "release": "0.1.0",
+  "owner": "Khalil Mohammad Khalil",
+  "generatedAt": "2026-08-16T18:01:51.474Z",
+  "files": {
+    "main.cjs": "9af0c0335cc551b3109201af7b6c6f90c8d3c65218573f5de439c041ce6a4d16",
+    "preload.cjs": "eb69c06c97fccd26449ef160d5fef8394d10a790dcd84aa33721c8ee78dacc0d",
+    "renderer/index.html": "854212de055fc470a8034e501e1707abdefa6ae39b7553d2a75c6873d2e67cee",
+    "renderer/app.js": "17b4a4d02a051928b8f93c370f5b725058b3263e4a8910e3c277947165958a51",
+    "renderer/styles.css": "01f85932b3426905744501ddd8ae6356a2c9663a9b39f93c0c967f22e5b034e1"
+  }
+}
